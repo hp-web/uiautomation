@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="cucumbertest">
+    <test name="cucumber">
+        <classes>
+            <class name="com.course.cucumberrunner.Runner"/>
+            <!--<class name="com.course.common.moudle_1"/>-->
+        </classes>
+    </test>
+
+</suite>

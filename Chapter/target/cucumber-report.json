@@ -1,0 +1,34 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "invalid 1",
+        "description": "",
+        "id": "testing-duplicate-and-ambiguoes-1;invalid-1",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 99034400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "this method will be invalid",
+            "match": {
+              "location": "Invalid1Stepdefs.f()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "Testing duplicate and ambiguoes 1",
+    "description": "",
+    "id": "testing-duplicate-and-ambiguoes-1",
+    "keyword": "Feature",
+    "uri": "D:/java_auotmate/java_01/Chapter/src/test/resources/invalid.feature"
+  }
+]
