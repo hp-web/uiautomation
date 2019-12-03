@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72a8e927-22d0-4b39-b9cf-47799e3ee82c" name="Default Changelist" comment="" />
+    <list default="true" id="72a8e927-22d0-4b39-b9cf-47799e3ee82c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/PageObject/GitHubFisrtPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/PageObject/ItHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/chapter01/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/QiuckStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/chaptor01/CalculatorStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/chaptor02/MultiplePrecondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/chaptor02/XpathTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/test/resources/com/hp/cucumber/chaptor01/Calculator.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/test/resources/com/hp/cucumber/chaptor02/multiple-precondition-action-excepted-with-add-but.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/test/resources/com/hp/cucumber/chaptor02/multiple-precondition-action-excepted-without-add-but.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/test/resources/com/hp/cucumber/quickstart/quicksart.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/tools/studyrecord" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/feature/test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/feature/test.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/common/moudle_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/common/moudle_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/Invalid1Stepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/Invalid1Stepdefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/util/StartChrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/util/StartChrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/src/test/resources/invalid.feature" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/src/test/resources/com/hp/cucumber/quickstart/invalid.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/common/moudle_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/target/classes/com/course/common/moudle_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/cucumberrunner/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/target/classes/com/course/cucumberrunner/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/util/StartChrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/target/classes/com/course/util/StartChrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/target/cucumber-report.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/target/cucumber-report.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/target/test-classes/invalid.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/testnNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/testnNG.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,27 +65,32 @@
     </option>
   </component>
   <component name="ProjectId" id="1UCUKmlYLmqPGSCGDDaXDk24FvP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter/src/test/resources/com/hp/cucumber/chaptor02" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\java_auotmate\java_01\Chapter" />
-      <recent name="D:\java_auotmate\java_01\Chapter\src\main\java" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\java_auotmate\java_01\Chapter\src\test" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.course.testng" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java_auotmate\java_01\Chapter\src\test\resources\com\hp\cucumber\chaptor02" />
+      <recent name="D:\java_auotmate\java_01\Chapter\src\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java_auotmate\java_01\Chapter\src\test\resources\com\hp\cucumber\quickstart" />
+      <recent name="D:\java_auotmate\java_01\Chapter" />
+      <recent name="D:\java_auotmate\java_01\Chapter\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -72,54 +105,69 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.D:/java_auotmate/java_01/Chapter/testnNG.xml">
-    <configuration name="Feature: invalid" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/Chapter/src/test/resources/invalid.feature" />
-      <option name="GLUE" value="com.course.cucumberrunner" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+  <component name="RunManager" selected="TestNG.XpathTest">
+    <configuration name="XpathTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
-      <option name="SUGGESTED_NAME" value="Feature: invalid" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="PATTERN" value="com.course.cucumberrunner.chaptor02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.course.cucumberrunner.chaptor02" />
+      <option name="MAIN_CLASS_NAME" value="com.course.cucumberrunner.chaptor02.XpathTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Feature: invalid1" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/Chapter/feature/invalid1.feature" />
-      <option name="GLUE" value="com.course.cucumberrunner" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+    <configuration name="XpathTest (2)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
-      <option name="SUGGESTED_NAME" value="Feature: invalid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="PATTERN" value="com.course.cucumberrunner.chaptor02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.course.cucumberrunner.chaptor02" />
+      <option name="MAIN_CLASS_NAME" value="com.course.cucumberrunner.chaptor02.XpathTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicAnnotation.testcase1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="XpathTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course.testng.*" />
+          <option name="PATTERN" value="com.course.cucumberrunner.chaptor02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.course.testng" />
-      <option name="MAIN_CLASS_NAME" value="com.course.testng.BasicAnnotation" />
-      <option name="METHOD_NAME" value="testcase1" />
+      <option name="PACKAGE_NAME" value="com.course.cucumberrunner.chaptor02" />
+      <option name="MAIN_CLASS_NAME" value="com.course.cucumberrunner.chaptor02.XpathTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XpathTest.baiDuXpathTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.cucumberrunner.chaptor02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.cucumberrunner.chaptor02" />
+      <option name="MAIN_CLASS_NAME" value="com.course.cucumberrunner.chaptor02.XpathTest" />
+      <option name="METHOD_NAME" value="baiDuXpathTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -127,27 +175,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D:/java_auotmate/java_01/Chapter/testnNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter/testnNG.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="moudle_1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="XpathTest.cilckITCirCle" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course.common.*" />
+          <option name="PATTERN" value="com.course.cucumberrunner.chaptor02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.course.common" />
-      <option name="MAIN_CLASS_NAME" value="com.course.common.moudle_1" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="com.course.cucumberrunner.chaptor02" />
+      <option name="MAIN_CLASS_NAME" value="com.course.cucumberrunner.chaptor02.XpathTest" />
+      <option name="METHOD_NAME" value="cilckITCirCle" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -156,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.D:/java_auotmate/java_01/Chapter/testnNG.xml" />
-        <item itemvalue="Cucumber java.Feature: invalid" />
-        <item itemvalue="Cucumber java.Feature: invalid1" />
-        <item itemvalue="TestNG.BasicAnnotation.testcase1" />
-        <item itemvalue="TestNG.moudle_1" />
+        <item itemvalue="TestNG.XpathTest" />
+        <item itemvalue="TestNG.XpathTest (2)" />
+        <item itemvalue="TestNG.XpathTest (1)" />
+        <item itemvalue="TestNG.XpathTest.baiDuXpathTest" />
+        <item itemvalue="TestNG.XpathTest.cilckITCirCle" />
       </list>
     </recent_temporary>
   </component>
@@ -177,10 +216,25 @@
       <workItem from="1574860011187" duration="879000" />
       <workItem from="1574862586023" duration="5610000" />
       <workItem from="1574942534322" duration="12492000" />
+      <workItem from="1575173842450" duration="16851000" />
+      <workItem from="1575287558815" duration="13659000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

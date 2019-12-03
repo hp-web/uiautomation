@@ -1,34 +1,126 @@
 [
   {
-    "line": 1,
+    "line": 2,
     "elements": [
       {
-        "line": 3,
-        "name": "invalid 1",
-        "description": "",
-        "id": "testing-duplicate-and-ambiguoes-1;invalid-1",
+        "line": 5,
+        "name": "simple scenario",
+        "description": "multiple pre-conditions\r\nmutiple user action\r\nmutiple excepted output",
+        "id": "test-multiple-condition\u0026action\u0026excepted;simple-scenario",
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "duration": 99034400,
+              "duration": 367230823900,
               "status": "passed"
             },
-            "line": 4,
-            "name": "this method will be invalid",
+            "line": 9,
+            "name": "user open the URL of git",
             "match": {
-              "location": "Invalid1Stepdefs.f()"
+              "location": "MultiplePrecondition.user_open_the_URL_of_git()"
             },
             "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 802176000,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 10,
+                "value": "#    Given user open the URL of jenkins"
+              }
+            ],
+            "line": 11,
+            "name": "click build job link",
+            "match": {
+              "location": "MultiplePrecondition.click_build_job_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2347200,
+              "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat com.course.cucumberrunner.chaptor02.MultiplePrecondition.the_job_will_be_started(MultiplePrecondition.java:42)\r\n\tat ✽.Then the job will be started(D:/java_auotmate/java_01/Chapter/src/test/resources/com/hp/cucumber/chaptor02/multiple-precondition-action-excepted-without-add-but.feature:12)\r\n",
+              "status": "pending"
+            },
+            "line": 12,
+            "name": "the job will be started",
+            "match": {
+              "location": "MultiplePrecondition.the_job_will_be_started()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 13,
+            "name": "click the job id link",
+            "match": {
+              "location": "MultiplePrecondition.click_the_job_id_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 14,
+            "name": "choice the job console",
+            "match": {
+              "location": "MultiplePrecondition.choice_the_job_console()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 15,
+            "name": "click into the console page",
+            "match": {
+              "location": "MultiplePrecondition.click_into_the_console_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 16,
+            "name": "the job building log will be print",
+            "match": {
+              "location": "MultiplePrecondition.the_job_building_log_will_be_print()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 17,
+            "name": "the last job can see successfully state",
+            "match": {
+              "location": "MultiplePrecondition.the_last_job_can_see_successfully_state()"
+            },
+            "keyword": "Then "
           }
         ]
       }
     ],
-    "name": "Testing duplicate and ambiguoes 1",
-    "description": "",
-    "id": "testing-duplicate-and-ambiguoes-1",
+    "name": "test multiple condition\u0026action\u0026excepted",
+    "description": "simple test\r\nwithout add and but keywords",
+    "id": "test-multiple-condition\u0026action\u0026excepted",
     "keyword": "Feature",
-    "uri": "D:/java_auotmate/java_01/Chapter/src/test/resources/invalid.feature"
+    "uri": "D:/java_auotmate/java_01/Chapter/src/test/resources/com/hp/cucumber/chaptor02/multiple-precondition-action-excepted-without-add-but.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@MultipleTest"
+      }
+    ]
   }
 ]

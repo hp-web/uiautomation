@@ -8,5 +8,9 @@
             <!--<class name="com.course.common.moudle_1"/>-->
         </classes>
     </test>
+<!--    <groups>-->
+<!--        <define name="MultipleTest"></define>-->
+
+<!--    </groups>-->
 
 </suite>
