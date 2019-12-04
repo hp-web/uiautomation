@@ -4,8 +4,7 @@
 <suite name="cucumbertest">
     <test name="cucumber">
         <classes>
-            <class name="com.course.cucumberrunner.Runner"/>
-            <!--<class name="com.course.common.moudle_1"/>-->
+
         </classes>
     </test>
 <!--    <groups>-->

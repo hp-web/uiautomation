@@ -2,33 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72a8e927-22d0-4b39-b9cf-47799e3ee82c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/PageObject/GitHubFisrtPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/PageObject/ItHome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/chapter01/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/QiuckStart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/chaptor01/CalculatorStepdefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/chaptor02/MultiplePrecondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/chaptor02/XpathTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter/src/test/resources/com/hp/cucumber/chaptor01/Calculator.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter/src/test/resources/com/hp/cucumber/chaptor02/multiple-precondition-action-excepted-with-add-but.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter/src/test/resources/com/hp/cucumber/chaptor02/multiple-precondition-action-excepted-without-add-but.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter/src/test/resources/com/hp/cucumber/quickstart/quicksart.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter/tools/studyrecord" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/PageObject/BaiduPageElementAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/allcase/baidupage/Case01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/common/base/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/common/case_01_page/BaiduPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/feature/test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/feature/test.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/common/moudle_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/common/moudle_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/Invalid1Stepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/Invalid1Stepdefs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/util/StartChrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/util/StartChrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/src/test/resources/invalid.feature" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/src/test/resources/com/hp/cucumber/quickstart/invalid.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/common/moudle_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/target/classes/com/course/common/moudle_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/cucumberrunner/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/target/classes/com/course/cucumberrunner/Runner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/util/StartChrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/target/classes/com/course/util/StartChrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/target/cucumber-report.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/target/cucumber-report.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/target/test-classes/invalid.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/feature/invalid1.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/feature/test.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/chapter01/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/common/moudle_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/Invalid1Stepdefs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/QiuckStart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/chaptor01/CalculatorStepdefs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/chaptor02/MultiplePrecondition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/chaptor02/XpathTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/BasicAnnotation.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter/testnNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/testnNG.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,17 +70,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.course.testng" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java_auotmate\java_01\Chapter\src\test\resources\com\hp\cucumber\quickstart" />
+      <recent name="D:\java_auotmate\java_01\Chapter" />
+      <recent name="D:\java_auotmate\java_01\Chapter\src\main\java" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\java_auotmate\java_01\Chapter\src\test\resources\com\hp\cucumber\chaptor02" />
       <recent name="D:\java_auotmate\java_01\Chapter\src\test" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\java_auotmate\java_01\Chapter\src\test\resources\com\hp\cucumber\quickstart" />
-      <recent name="D:\java_auotmate\java_01\Chapter" />
-      <recent name="D:\java_auotmate\java_01\Chapter\src\main\java" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.course.testng" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -105,7 +95,42 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.XpathTest">
+  <component name="RunManager" selected="TestNG.Case01.sesrchItHome">
+    <configuration name="Case01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.allcase.baidupage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.allcase.baidupage" />
+      <option name="MAIN_CLASS_NAME" value="com.course.allcase.baidupage.Case01" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Case01.sesrchItHome" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.allcase.baidupage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.allcase.baidupage" />
+      <option name="MAIN_CLASS_NAME" value="com.course.allcase.baidupage.Case01" />
+      <option name="METHOD_NAME" value="sesrchItHome" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="XpathTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter" />
       <extension name="coverage">
@@ -157,49 +182,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XpathTest.baiDuXpathTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.cucumberrunner.chaptor02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course.cucumberrunner.chaptor02" />
-      <option name="MAIN_CLASS_NAME" value="com.course.cucumberrunner.chaptor02.XpathTest" />
-      <option name="METHOD_NAME" value="baiDuXpathTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="XpathTest.cilckITCirCle" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.cucumberrunner.chaptor02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course.cucumberrunner.chaptor02" />
-      <option name="MAIN_CLASS_NAME" value="com.course.cucumberrunner.chaptor02.XpathTest" />
-      <option name="METHOD_NAME" value="cilckITCirCle" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Case01.sesrchItHome" />
+        <item itemvalue="TestNG.Case01" />
         <item itemvalue="TestNG.XpathTest" />
         <item itemvalue="TestNG.XpathTest (2)" />
         <item itemvalue="TestNG.XpathTest (1)" />
-        <item itemvalue="TestNG.XpathTest.baiDuXpathTest" />
-        <item itemvalue="TestNG.XpathTest.cilckITCirCle" />
       </list>
     </recent_temporary>
   </component>
@@ -217,8 +206,17 @@
       <workItem from="1574862586023" duration="5610000" />
       <workItem from="1574942534322" duration="12492000" />
       <workItem from="1575173842450" duration="16851000" />
-      <workItem from="1575287558815" duration="13659000" />
+      <workItem from="1575287558815" duration="14028000" />
+      <workItem from="1575459908432" duration="5331000" />
     </task>
+    <task id="LOCAL-00001" summary="driver">
+      <created>1575391119212</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575391119213</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,5 +234,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="driver" />
+    <option name="LAST_COMMIT_MESSAGE" value="driver" />
   </component>
 </project>
