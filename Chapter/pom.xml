@@ -13,8 +13,6 @@
             <artifactId>testng</artifactId>
             <version>6.14.2</version>
         </dependency>
-
-
         <dependency>
             <groupId> info.cukes</groupId>
             <artifactId> cucumber-testng</artifactId>
@@ -71,6 +69,25 @@
             <version>2.12.2</version>
             <scope>provided</scope>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/com.github.dreamhead/moco-core -->
+        <dependency>
+            <groupId>com.github.dreamhead</groupId>
+            <artifactId>moco-core</artifactId>
+            <version>1.0.0</version>
+            <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.httpcomponents</groupId>
+            <artifactId>httpclient</artifactId>
+            <version>4.5.6</version>
+        </dependency>
+        <dependency>
+            <groupId>org.json</groupId>
+            <artifactId>json</artifactId>
+            <version>20170516</version>
+        </dependency>
+
 
 
     </dependencies>

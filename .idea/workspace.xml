@@ -2,25 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72a8e927-22d0-4b39-b9cf-47799e3ee82c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/PageObject/BaiduPageElementAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/allcase/baidupage/Case01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/common/base/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/common/case_01_page/BaiduPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_dreamhead_moco_core_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_39_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_39_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_39_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_39_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_39_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_39_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_39_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20170516.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/allcase/baidupage/ItHomeCase_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/allcase/baidupage/ItHomeCase_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/common/pageOperate/ItHomePageOperate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/common/pagehandle/ItHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/myhttpclient/Cookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/myhttpclient/MyHttpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/util/GetApiUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/util/driverBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/moco/moco-runner-0.12.0-standalone.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/moco/moco.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/feature/invalid1.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/feature/test.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/chapter01/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/common/moudle_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/Invalid1Stepdefs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/QiuckStart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/Runner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/chaptor01/CalculatorStepdefs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/chaptor02/MultiplePrecondition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/cucumberrunner/chaptor02/XpathTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/BasicAnnotation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/testnNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/testnNG.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/Chapter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/Chapter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/PageObject/ItHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/PageObject/ItHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/allcase/baidupage/Case01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/allcase/baidupage/Case01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/common/base/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/common/base/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/common/case_01_page/BaiduPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/common/pagehandle/BaiduPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/common/moudle_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/cucumberrunner/Invalid1Stepdefs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/cucumberrunner/Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/BasicAnnotation.class" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +58,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -58,72 +84,49 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter/src/test/resources/com/hp/cucumber/chaptor02" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter/src/main/java/moco" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\java_auotmate\java_01\Chapter\src\test\resources\com\hp\cucumber\quickstart" />
-      <recent name="D:\java_auotmate\java_01\Chapter" />
-      <recent name="D:\java_auotmate\java_01\Chapter\src\main\java" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\java_auotmate\java_01\Chapter\src\test\resources\com\hp\cucumber\chaptor02" />
-      <recent name="D:\java_auotmate\java_01\Chapter\src\test" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.course.testng" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java_auotmate\java_01\Chapter\src\main\java\moco" />
+      <recent name="D:\java_auotmate\java_01\Chapter\src\test\resources\com\hp\cucumber\chaptor02" />
+      <recent name="D:\java_auotmate\java_01\Chapter\src\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java_auotmate\java_01\Chapter\src\main\java" />
+      <recent name="D:\java_auotmate\java_01\Chapter\src\test\resources\com\hp\cucumber\quickstart" />
+      <recent name="D:\java_auotmate\java_01\Chapter" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="TestNG.Case01.sesrchItHome">
-    <configuration name="Case01" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.GetApiUrl.testPostMethod">
+    <configuration name="GetApiUrl.testPostMethod" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course.allcase.baidupage.*" />
+          <option name="PATTERN" value="com.course.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.course.allcase.baidupage" />
-      <option name="MAIN_CLASS_NAME" value="com.course.allcase.baidupage.Case01" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Case01.sesrchItHome" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.allcase.baidupage.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course.allcase.baidupage" />
-      <option name="MAIN_CLASS_NAME" value="com.course.allcase.baidupage.Case01" />
-      <option name="METHOD_NAME" value="sesrchItHome" />
+      <option name="PACKAGE_NAME" value="com.course.util" />
+      <option name="MAIN_CLASS_NAME" value="com.course.util.GetApiUrl" />
+      <option name="METHOD_NAME" value="testPostMethod" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -131,16 +134,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XpathTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ItHomeCase_01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course.cucumberrunner.chaptor02.*" />
+          <option name="PATTERN" value="com.course.allcase.baidupage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.course.cucumberrunner.chaptor02" />
-      <option name="MAIN_CLASS_NAME" value="com.course.cucumberrunner.chaptor02.XpathTest" />
+      <option name="PACKAGE_NAME" value="com.course.allcase.baidupage" />
+      <option name="MAIN_CLASS_NAME" value="com.course.allcase.baidupage.ItHomeCase_01" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -148,16 +151,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XpathTest (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ItHomeCase_02" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course.cucumberrunner.chaptor02.*" />
+          <option name="PATTERN" value="com.course.allcase.baidupage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.course.cucumberrunner.chaptor02" />
-      <option name="MAIN_CLASS_NAME" value="com.course.cucumberrunner.chaptor02.XpathTest" />
+      <option name="PACKAGE_NAME" value="com.course.allcase.baidupage" />
+      <option name="MAIN_CLASS_NAME" value="com.course.allcase.baidupage.ItHomeCase_02" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -165,16 +168,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XpathTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ItHomeCase_02.testIpadHome" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course.cucumberrunner.chaptor02.*" />
+          <option name="PATTERN" value="com.course.allcase.baidupage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.course.cucumberrunner.chaptor02" />
-      <option name="MAIN_CLASS_NAME" value="com.course.cucumberrunner.chaptor02.XpathTest" />
+      <option name="PACKAGE_NAME" value="com.course.allcase.baidupage" />
+      <option name="MAIN_CLASS_NAME" value="com.course.allcase.baidupage.ItHomeCase_02" />
+      <option name="METHOD_NAME" value="testIpadHome" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyHttpClient" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.myhttpclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.myhttpclient" />
+      <option name="MAIN_CLASS_NAME" value="com.course.myhttpclient.MyHttpClient" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -184,13 +205,25 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Case01.sesrchItHome" />
-        <item itemvalue="TestNG.Case01" />
-        <item itemvalue="TestNG.XpathTest" />
-        <item itemvalue="TestNG.XpathTest (2)" />
-        <item itemvalue="TestNG.XpathTest (1)" />
+        <item itemvalue="TestNG.GetApiUrl.testPostMethod" />
+        <item itemvalue="TestNG.MyHttpClient" />
+        <item itemvalue="TestNG.ItHomeCase_02" />
+        <item itemvalue="TestNG.ItHomeCase_02.testIpadHome" />
+        <item itemvalue="TestNG.ItHomeCase_01" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -207,7 +240,11 @@
       <workItem from="1574942534322" duration="12492000" />
       <workItem from="1575173842450" duration="16851000" />
       <workItem from="1575287558815" duration="14028000" />
-      <workItem from="1575459908432" duration="5331000" />
+      <workItem from="1575459908432" duration="7865000" />
+      <workItem from="1575547746116" duration="13145000" />
+      <workItem from="1575792431002" duration="896000" />
+      <workItem from="1575794264815" duration="1340000" />
+      <workItem from="1575979301945" duration="12366000" />
     </task>
     <task id="LOCAL-00001" summary="driver">
       <created>1575391119212</created>
@@ -216,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575391119213</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="po and extend">
+      <created>1575467654388</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575467654388</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,6 +281,41 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="driver" />
-    <option name="LAST_COMMIT_MESSAGE" value="driver" />
+    <MESSAGE value="po and extend" />
+    <option name="LAST_COMMIT_MESSAGE" value="po and extend" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1032" y="181" key="#Inspections" timestamp="1575983473258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="181" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1575983473258" />
+    <state x="1148" y="387" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575981333998">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1148" y="387" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1575981333998" />
+    <state width="1340" height="346" key="GridCell.Tab.0.bottom" timestamp="1575990901362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="346" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575990901362" />
+    <state width="1340" height="346" key="GridCell.Tab.0.center" timestamp="1575990901362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="346" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575990901362" />
+    <state width="1340" height="346" key="GridCell.Tab.0.left" timestamp="1575990901362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="346" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575990901362" />
+    <state width="1340" height="346" key="GridCell.Tab.0.right" timestamp="1575990901362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="346" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575990901362" />
+    <state x="525" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1575794283860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="525" y="191" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575794283860" />
+    <state x="1057" y="290" width="672" height="678" key="search.everywhere.popup" timestamp="1575989690171">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1057" y="290" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1575989690171" />
   </component>
 </project>

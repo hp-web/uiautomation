@@ -1,0 +1,58 @@
+[
+    {
+    "description":"moco实例",
+    "request":{
+        "uri":"/moco/demo",
+        "method":"get"
+    },
+    "response":{
+        "text":"这是响应",
+        "headers":{
+            "Content-Type":"text/html;charset=gbk"
+        }
+    }
+    },
+      {
+      	"description":"这是一个带cookies信息的post请求",
+      	"request":{
+      	  	"uri":"/postwithcookie",
+      	"method":"post",
+      	"cookies":{
+      		"login":"true"
+      	},
+      	"json":{
+      		"name":"huhansan",
+      		"age":"18"
+      	}
+      	},
+      	"response":{
+      		"status":"200",
+      		"headers":{
+      			"Content-Type":"text/html;charset=gbk"
+      		},
+      		"json":{
+    			"huhansan":"success",
+    			"status":"1"
+      		}
+      	}
+      },
+        {
+        	"description":"获取cookie信息",
+        	"request":{
+        		"uri":"/getCookie",
+        		"method":"get"
+        	},
+        	"response":{
+        		"cookies":{
+        			"login":"true"
+        		},
+        		"headers":{
+        			"Content-Type":"text/html;charset=gbk"
+        		},
+        		"text":"成功获取到cookie"
+        	}
+        }
+
+]
+
+
