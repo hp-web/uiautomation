@@ -22,16 +22,18 @@ public class GetApiUrl {
     private String url;
     private ResourceBundle bundle;
     private CookieStore cookieStore;
+
     @BeforeTest
-    public void beforeTest(){
+    public void beforeTest() {
         bundle = ResourceBundle.getBundle("application", Locale.CHINA);
         url = bundle.getString("test.url");
     }
+
     @Test
     public void testGetcookies() throws IOException {
-        String result ;
+        String result;
         String uri = bundle.getString("getCookie.uri");
-        String testUrl = this.url+uri;
+        String testUrl = this.url + uri;
 
         HttpGet get = new HttpGet(testUrl);
         DefaultHttpClient client = new DefaultHttpClient();
@@ -42,8 +44,8 @@ public class GetApiUrl {
         //获取cookies信息
         this.cookieStore = client.getCookieStore();
         List<Cookie> cookieList = cookieStore.getCookies();
-        for (Cookie cookie:cookieList
-             ) {
+        for (Cookie cookie : cookieList
+        ) {
             String name = cookie.getName();
             String value = cookie.getValue();
             System.out.println();
@@ -63,11 +65,11 @@ public class GetApiUrl {
         HttpPost post = new HttpPost(testUrl);
         //添加参数
         JSONObject param = new JSONObject();
-        param.put("name","huhansan");
-        param.put("age","18");
+        param.put("name", "huhansan");
+        param.put("age", "18");
 
         //设置请求头信息,设置header
-        post.setHeader("content-type","application/json");
+        post.setHeader("content-type", "application/json");
         //将参数信息添加到方法中
         StringEntity entity = new StringEntity(param.toString());
         post.setEntity(entity);
@@ -85,12 +87,10 @@ public class GetApiUrl {
         //获取到结果值
         String success = (String) resultJson.get("huhansan");
         //具体的判断返回结果的值
-        Assert.assertEquals("success",success);
-
+        Assert.assertEquals("success", success);
 
 
     }
-
 
 
 }

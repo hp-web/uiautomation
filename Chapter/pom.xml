@@ -60,7 +60,6 @@
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.12</version>
-            <scope>test</scope>
         </dependency>
 
         <dependency>
@@ -87,7 +86,11 @@
             <artifactId>json</artifactId>
             <version>20170516</version>
         </dependency>
-
+        <!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
 
 
     </dependencies>
@@ -125,5 +128,11 @@
             </plugin>
         </plugins>
     </build>
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <!--SpringBoot版本-->
+        <version>1.5.9.RELEASE</version>
+    </parent>
 
 </project>

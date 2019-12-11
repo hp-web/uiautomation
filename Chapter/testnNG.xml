@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<!--<?xml version="1.0" encoding="utf-8" ?>-->
+<!--<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >-->
 
-<suite name="cucumbertest">
-    <test name="cucumber">
-        <classes>
+<!--<suite name="cucumbertest">-->
+<!--    <test name="cucumber">-->
+<!--        <classes>-->
 
-        </classes>
-    </test>
-<!--    <groups>-->
-<!--        <define name="MultipleTest"></define>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--&lt;!&ndash;    <groups>&ndash;&gt;-->
+<!--&lt;!&ndash;        <define name="MultipleTest"></define>&ndash;&gt;-->
 
-<!--    </groups>-->
+<!--&lt;!&ndash;    </groups>&ndash;&gt;-->
 
-</suite>
+<!--</suite>-->
